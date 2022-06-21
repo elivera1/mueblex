@@ -1,0 +1,55 @@
+
+body{
+	background: #E0E0E0;
+	text-align: center;
+}
+
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.link1{
+	padding: 10px 80px;
+	width: 100%;
+	font-size: 20x;
+	line-height: 60px;
+}
+
+
+.fondo{
+	background: #9D9AA7;
+}
+
+.bloque h1{
+	font-family: arial;
+	color: black;
+	text-align: left;
+	
+}
+
+.bloque.parallax{
+	height: auto;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+.imagen{
+	margin-top: 5px;
+    border-radius: 100px;
+    border: 2px solid black;
+    margin-right: 100px;
+	margin-left: 100px;
+	float: left;
+}
+
+
+.img{
+	height: 100%;
+	width: 100%;
+}
